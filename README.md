@@ -1,1 +1,1 @@
-# -GearWatch-Spider-Clock
+# GearWatch-Spider-Clock
